@@ -1,5 +1,6 @@
 {
   "name": "closing_and_opening_the_circuit",
+  "homepage": ".",
   "private": true,
   "version": "0.0.0",
   "type": "module",
